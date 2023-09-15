@@ -3,6 +3,7 @@ import time
 
 now=time.strftime("%b %d, %y, %H:%M:%S")
 print("It is now",now)
+print("the time is")
 print("Todo App by Saiyan")
 
 while True:
